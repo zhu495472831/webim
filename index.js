@@ -19,6 +19,8 @@ $(function(){
 
 	var originDemension = {};
 
+	
+
 	var videoExtReg = /^\.(?=mpg|3gp|vob|rmvb|mov|flv|avi|wmv|mp4|mkv)/i,
 		musicExtReg = /^\.(?=flac|ape|wav|mp3|aac|ogg|wma)/i,
 		wordExtReg = /^\.(?=doc|docx)/i;
