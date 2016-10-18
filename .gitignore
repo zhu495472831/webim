@@ -1,0 +1,17 @@
+#images
+*.jpg
+*.png
+*.gif
+*.swf
+*.html
+sinaEmotion
+student
+node_modules
+jplayer
+blue.monday
+fcheck.js
+jquery-1.9.1.min.js
+mongoose.js
+test.js
+webuploader.css
+webuploader.nolog.min.js
